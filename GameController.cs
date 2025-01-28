@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+//Hocam bazı şeyleri mantığını anlasamda çalıştırmayı başaramadım koduma entegre etmek zor geldi baştan yazmam lazımdı çözebilmek için ama yapamadım kusura bakmayın.
 namespace Final
 {
     internal class GameController
