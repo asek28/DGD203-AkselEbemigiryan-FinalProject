@@ -13,10 +13,9 @@ namespace Final
             SaveData saveData = new SaveData();
             saveData.PlayerX = playerX;
             saveData.PlayerY = playerY;
-            saveData.Inventory = inventory.GetItems(); // Envanteri kaydet
-            saveData.Map = map; //Haritayı kaydet
-            saveData.Map2 = map2; //İkinci haritayı kaydet
-
+            saveData.Inventory = inventory.GetItems(); 
+            saveData.Map = map; 
+            saveData.Map2 = map2; 
 
             string jsonString = JsonSerializer.Serialize(saveData);
             File.WriteAllText(fileName, jsonString);
