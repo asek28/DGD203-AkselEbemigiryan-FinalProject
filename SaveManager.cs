@@ -4,7 +4,7 @@ using System.IO;
 using System.Text.Json;
 using System.Collections.Generic;
 
-namespace MidTerm
+namespace Final
 {
     public class SaveManager
     {
