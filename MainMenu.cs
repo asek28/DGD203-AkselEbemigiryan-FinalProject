@@ -1,7 +1,7 @@
 ﻿using MidTerm;
 using System;
 
-namespace MidTerm
+namespace Final
 {
     public class MainMenu
     {
