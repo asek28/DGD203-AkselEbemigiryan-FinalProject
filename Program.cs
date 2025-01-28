@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Security.Cryptography.X509Certificates;
 
-namespace MidTerm
+namespace Final
 {
     public class Program
     {
